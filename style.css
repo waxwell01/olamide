@@ -116,11 +116,6 @@ section p {
   width: 300px;
   padding: 15px;
   margin: 20px auto 50px auto;
-  padding: 15px;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 .register-form input,
@@ -164,6 +159,11 @@ body.dark-mode .hero-section,
 body.dark-mode .speaker-card {
   background-color: #111827;
   color: white;
+}
+
+body.dark-mode section h2,
+body.dark-mode h3 {
+  color: #38bdf8;
 }
 
 body.dark-mode section h2,
